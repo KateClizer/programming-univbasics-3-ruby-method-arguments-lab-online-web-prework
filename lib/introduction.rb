@@ -6,7 +6,7 @@ def introduction
   puts "Hi, my name is #{name}."
 end
 
-name = Katelynne 
+name = "Katelynne" 
 introduction
 
 
